@@ -1,5 +1,4 @@
 import random
-# from data import word_list, logo, stages
 
 word_list = [
 'abruptly',
